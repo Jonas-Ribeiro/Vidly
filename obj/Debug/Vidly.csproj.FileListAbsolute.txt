@@ -49,6 +49,7 @@ C:\Users\50s\Documents\GitHub\Vidly\bin\roslyn\VBCSCompiler.exe
 C:\Users\50s\Documents\GitHub\Vidly\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\50s\Documents\GitHub\Vidly\bin\Antlr3.Runtime.dll
 C:\Users\50s\Documents\GitHub\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\50s\Documents\GitHub\Vidly\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
 C:\Users\50s\Documents\GitHub\Vidly\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\50s\Documents\GitHub\Vidly\bin\Newtonsoft.Json.dll
 C:\Users\50s\Documents\GitHub\Vidly\bin\System.Web.Helpers.dll
@@ -69,7 +70,6 @@ C:\Users\50s\Documents\GitHub\Vidly\bin\System.Web.WebPages.Razor.xml
 C:\Users\50s\Documents\GitHub\Vidly\bin\Newtonsoft.Json.xml
 C:\Users\50s\Documents\GitHub\Vidly\bin\Antlr3.Runtime.pdb
 C:\Users\50s\Documents\GitHub\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\50s\Documents\GitHub\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Users\50s\Documents\GitHub\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\50s\Documents\GitHub\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\50s\Documents\GitHub\Vidly\obj\Debug\Vidly.dll
